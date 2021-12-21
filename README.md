@@ -9,7 +9,7 @@ and ...
 how to use:
 
 ``` linux
-git clone this repository
+git clone https://github.com/keeeei13c/next_template.git
 ```
 
 ``` linux
